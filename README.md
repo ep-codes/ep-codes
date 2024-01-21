@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ep-codes
-- 👀 I’m interested in graphic design, web development, software engineering, cybersecurity. 
+- 👀 I’m interested in graphic design, web development, software engineering, cybersecurity, and UI/UX design.
+- 🖥️ I'm skilled in Python, C, HTML, CSS, and SQL
 - 🌱 I’m currently learning Javascript and Java.
 - 💞️ I’m looking to collaborate on projects and art! 
 - 📫 How to reach me : eshani2020@gmail.com
